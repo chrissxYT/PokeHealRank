@@ -1,0 +1,10 @@
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\bin\x64\Release\PokeHealRank.exe.config
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\bin\x64\Release\PokeHealRank.exe
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\bin\x64\Release\PokeHealRank.pdb
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.csprojAssemblyReference.cache
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.Form1.resources
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.Properties.Resources.resources
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.csproj.GenerateResource.cache
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.csproj.CoreCompileInputs.cache
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.exe
+C:\Users\chrissx\source\repos\PokeHealRank\PokeHealRank\obj\x64\Release\PokeHealRank.pdb
